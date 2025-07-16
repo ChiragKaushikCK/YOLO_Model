@@ -50,7 +50,7 @@ Choose your desired model via the sidebar.
 
 ## ➤ App Preview
 
-```
+
 
 \[ Streamlit UI ]
 ┌──────────────────────────────────────┐
@@ -89,9 +89,8 @@ Choose your desired model via the sidebar.
 This project is open-source and educational.
 YOLO models are provided by [Ultralytics](https://github.com/ultralytics/ultralytics).
 
-```
 
 ---
 
 Would you like a GIF/preview badge added at the top? Or help pushing this to GitHub with a `requirements.txt`? Let me know!
-```
+
